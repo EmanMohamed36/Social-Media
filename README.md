@@ -21,6 +21,7 @@ npm start
 
 ## API Endpoints
 > Base URL: https://simple-socialmedia.onrender.com
+> You Can't post on the browser use postman to signup and login
 ### Users: `api/users/`
 <!-- table -->
 | Method | Endpoint  | Description         | body                  |
