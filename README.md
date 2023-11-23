@@ -23,7 +23,7 @@ npm start
 > Base URL: https://simple-socialmedia.onrender.com
 > 
 > You Can't post on the browser use postman to signup and login
-### Users: `api/users/`
+### Users: `api/user/`
 <!-- table -->
 | Method | Endpoint  | Description         | body                  |
 | ------ | --------- | ------------------- | --------------------- |
@@ -31,7 +31,7 @@ npm start
 | POST   | `/signup` | register new user   | name, email, password |
 | POST   | `/login`  | Update a user by id | email, password       |
 
-### Blogs: `api/blogs/`
+### Blogs: `api/blog/`
 
 <!-- table -->
 | Method | Endpoint    | Description            | body                                                  |
